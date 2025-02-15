@@ -1,3 +1,5 @@
+# Link do vídeo: https://drive.google.com/file/d/1EYnTrDSo3sAohdOIdISUk0qfqBQmux8Q/view?usp=sharing
+
 # Controle de LEDs e Display com Joystick na BitDogLab:
 - Este projeto utiliza um microcontrolador Raspberry Pi Pico W para controlar LEDs e um display OLED SSD1306 com base nos movimentos de um joystick analógico. Também inclui a manipulação de bordas no display e o controle de LEDs via PWM.
 
